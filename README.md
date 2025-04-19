@@ -12,3 +12,12 @@ Wine Dataset from UCI Machine Learning Repository.
 * PCA
 * T+N (Log Transform + Normalization)
 * T+N+PCA
+# 🤖 Clustering Algorithms Evaluated
+- KMeans
+- Agglomerative (Hierarchical)
+- MeanShift
+# Evaluation Metrics
+For each algorithm and preprocessing method, the following metrics are recorded:
+- Silhouette Score
+- Calinski-Harabasz Index
+- Davies-Bouldin Index
